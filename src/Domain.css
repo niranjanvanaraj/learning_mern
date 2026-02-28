@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  color: #f4f4f4;
+  background:url('./Home.jpg') ;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  text-align: center;
+  padding: 40px;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+table {
+  width: 80%;
+  margin: 0 auto;
+  border-collapse: collapse;
+  background-color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+th{
+  border: 1px solid #ccc;
+  padding: 12px;
+  text-align: center;
+  background-color: rgb(81, 81, 163);
+  color: black;
+}
+
+td {
+  border: 1px solid #ccc;
+  padding: 12px;
+  text-align: center;
+  background-color: gray;
+  color: floralwhite;
+}

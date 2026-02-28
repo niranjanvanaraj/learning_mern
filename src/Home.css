@@ -1,0 +1,28 @@
+body{
+    background: url('./Home.jpg');
+    background-size: contain;
+}
+
+/* button{
+    background-color: navy;
+    color: whitesmoke;
+    border: 5px solid black;
+} */
+
+.btn_cntr{
+    width: 40%;
+    height: fit-content;
+}
+.Counter{
+    width : 100%;
+}
+.box_dark{
+    width: 100%;
+    height: 40vh;
+    background-color: black;
+}
+.box_white{
+    width: 100%;
+    height: 40vh;
+    background-color: white;
+}

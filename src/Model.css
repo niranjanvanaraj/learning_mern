@@ -1,0 +1,46 @@
+.intro {
+   
+    color: rgb(223, 223, 34);
+    font-size: small;
+   
+}
+
+.intro:hover {
+    text-decoration: underline;
+    color: greenyellow;
+    font-size: medium;
+}
+
+.structure {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.met{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.one{
+    text-align: left;
+    color: chocolate;
+}
+
+body{
+    background: url('model_new.jpg');
+    background-size: cover;
+}
+
+.met{
+    color: rgb(222, 157, 36);
+    font-size: larger;
+}
+
+
+button{
+    border-color: black;
+    background-color: rgb(166, 132, 86);
+    color: whitesmoke;
+}
